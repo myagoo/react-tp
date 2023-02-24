@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://myagoo.github.io/react-tp/static/css/main.ee3380c3.css",
+    "main.js": "https://myagoo.github.io/react-tp/static/js/main.3036be04.js",
+    "static/js/787.76b479f5.chunk.js": "https://myagoo.github.io/react-tp/static/js/787.76b479f5.chunk.js",
+    "index.html": "https://myagoo.github.io/react-tp/index.html",
+    "main.ee3380c3.css.map": "https://myagoo.github.io/react-tp/static/css/main.ee3380c3.css.map",
+    "main.3036be04.js.map": "https://myagoo.github.io/react-tp/static/js/main.3036be04.js.map",
+    "787.76b479f5.chunk.js.map": "https://myagoo.github.io/react-tp/static/js/787.76b479f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee3380c3.css",
+    "static/js/main.3036be04.js"
+  ]
+}
