@@ -1,0 +1,24 @@
+div {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+form {
+  display: flex;
+  gap: 4px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+li {
+  display: flex;
+  gap: 4px;
+}
